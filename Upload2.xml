@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ReconFile xsi:noNamespaceSchemaLocation="H:\HDesktop\PRJ62\SchemaForNonBSPReconcialation\AirTickedReconciliationSchema_V2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Transactions>
+  <Transaction>
+    <TransactionType>TKT</TransactionType>
+    <TicketNumber>8976515165</TicketNumber>
+    <Airline>AI</Airline>
+    <PNR>PRMF5E</PNR>
+    <ProviderReference>30660129</ProviderReference>
+    <IssueDate>18-03-19</IssueDate>
+    <DepartureDate>18-04-19</DepartureDate>
+    <Amount>12996</Amount>
+    <GSTComponent>0.00</GSTComponent>
+    <FareCash>0.00</FareCash>
+    <FareCredit>0.00</FareCredit>
+    <TaxCash>0.00</TaxCash>
+    <TaxCredit>0.00</TaxCredit>
+    <OB_Fee>0.00</OB_Fee>
+    <OB_Fee_GST>0.00</OB_Fee_GST>
+    <TotalCredit>0.00</TotalCredit>
+    <CommissionAmount>0.00</CommissionAmount>
+    <CommissionGST>0.00</CommissionGST>
+    <FeeAmount>0.00</FeeAmount>
+    <FeeGST>0.00</FeeGST>
+    <PassengerName>CORNISH/JADEMS</PassengerName>
+    <Itinerary>ADL/VA  MEL/FJ  NAN/FJ  ADL</Itinerary>
+  </Transaction>  
+</Transactions>
+</ReconFile>
